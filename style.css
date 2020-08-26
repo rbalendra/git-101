@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.images {
+  display: flex;
+  justify-content: space-around;
+  align-content: centre;
+  border-radius: 10px;
+  width: 100vw;
+}
+
+.flexb {
+  background: rgb(221, 238, 208);
+  padding: 20px;
+}
